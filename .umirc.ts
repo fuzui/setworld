@@ -25,9 +25,6 @@ export default defineConfig({
     removeWindowInitialProps: true,
   },
   exportStatic: {},
-  sitemap: {
-    hostname: 'https://setworld.net',
-  },
   metas,
   // more config: https://d.umijs.org/config
 });
