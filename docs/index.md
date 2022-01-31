@@ -17,8 +17,7 @@ features:
   - icon: https://cdn.fuzui.net/icon/cloud-server.png?x-oss-process=style/ys
     title: 服务器运维
     desc: 软件部署、服务器维护升级等
-footer: Copyright © 2020 吴忠市利通区极客代软件开发工作室<br />
-        <a href="https://beian.miit.gov.cn/" target="_blank"><img src="https://cdn.fuzui.net/icon/beian.png?x-oss-process=style/ys" style="width:15px"/> 宁ICP备2020001732号-1 </a>
+footer: Copyright © 2022 吴忠市利通区极客代软件开发工作室<br />
+  <a href="https://beian.miit.gov.cn/" target="_blank"><img src="https://cdn.fuzui.net/icon/beian.png?x-oss-process=style/ys" style="width:15px"/> 宁ICP备2020001732号-1 </a>
+  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11011202003445" target="_blank"><img src="https://oss.fuzui.net/img/202202010105048.png" style="width:15px"/> 京公网安备 11011202003445号 </a>
 ---
-
-
