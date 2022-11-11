@@ -1,8 +1,8 @@
 ---
-title: SetWorld - 为世界赋值
+title: 极客代软件开发工作室
 order: 10
 hero:
-  title: SetWorld
+  title: 极客代软件开发工作室
   desc: ✍ 你的十指，拥有改变世界的力量
   actions:
     - text: 了解我们
