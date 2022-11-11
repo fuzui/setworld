@@ -1,7 +1,10 @@
 import { defineConfig } from 'dumi';
 import { metas } from './config/metas';
 
+const repo = 'SetWorld';
+
 export default defineConfig({
+  title: repo,
   favicon: 'https://cdn.fuzui.net/logo/setworld_64.png?x-oss-process=style/ys',
   logo: 'https://cdn.fuzui.net/logo/setworld_256.png?x-oss-process=style/ys',
   locales: [['zh-CN', '中文']],
