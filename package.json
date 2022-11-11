@@ -1,6 +1,5 @@
 {
   "private": true,
-  "name": "setworld",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
